@@ -6,7 +6,7 @@ public class PlayerInventory : MonoBehaviour
 {
     public static event Action<IReadOnlyCollection<Item>> OnUpdate;
     
-    [SerializeField] private float maxNumber;
+    [SerializeField] private uint maxNumber;
     
     [SerializeField] private List<Item> items;
     
@@ -36,19 +36,22 @@ public class PlayerInventory : MonoBehaviour
     }
 
     /// <returns>return false if full</returns>
-    public bool AddItem()
+    public bool AddItem(Item item)
     {
+        if (items.Count == maxNumber)
+            return false;
+        items.Add(item);
         return true;
     }
     
-    public bool ContainsItem()
+    public bool ContainsItem(Item item)
     {
-        return true;
+        return items.Contains(item);
     }
     
     /// <returns>return true if success</returns>
-    public bool RemoveItem()
+    public bool RemoveItem(Item item)
     {
-        return true;
+        return items.Remove(item);
     }
 }
