@@ -70,6 +70,8 @@ public class DialogUI : MonoBehaviour
         {
             _dialog = _conatctCharacter.DialogAfterQuest;
         }
+
+        HandlePressNextButton();
         PlayerInput.OnNextPhraseButtonClick += HandlePressNextButton;
     }
 

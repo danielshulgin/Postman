@@ -6,6 +6,8 @@ public class House : MonoBehaviour
 {
     [SerializeField] private CharacterParametrVariantsSO parametrVariantsSO;
     
+    [SerializeField] public bool target;
+    
     [SerializeField] private string characterName;
 
     [SerializeField] private string surname;
@@ -27,17 +29,16 @@ public class House : MonoBehaviour
     [SerializeField] private string married;
 
 
-    public string Info => "name: " + name + "\n" +
-                          "surname: " + surname + "\n" +
-                          "sex: " + sex + "\n" +
-                          "characterName: " + characterName + "\n" +
-                          "age: " + age + "\n" +
-                          "hair color: " + hair_color + "\n" +
-                          "height: " + height + "\n" +
-                          "body: " + body + "\n" +
-                          "car: " + car + "\n" +
-                          "pat: " + pat + "\n" +
-                          "married: " + married + "\n";
+    public string Info => "имя: " + characterName + "\n" +
+                          "фамилия: " + surname + "\n" +
+                          "пол: " + sex + "\n" +
+                          "возраст: " + age + "\n" +
+                          "цвет волос: " + hair_color + "\n" +
+                          "рост: " + height + "\n" +
+                          "телосложение: " + body + "\n" +
+                          "машина: " + car + "\n" +
+                          "питомец: " + pat + "\n" +
+                          "замужем: " + married + "\n";
     
     
     [ContextMenu("GenerateRandomValues")]
