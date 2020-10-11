@@ -882,6 +882,116 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 68999720979646602, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 68999720979646602, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041B\u0435\u0432\u0430\u043D\u0434\u043E\u0432\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 68999720979646602, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 68999720979646602, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 76228343129035720, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0418\u0437\u0430\u0431\u0435\u043B\u043B\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 76228343129035720, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0417\u0435\u043C\u0430\u043D\u0435\u043A"
+      objectReference: {fileID: 0}
+    - target: {fileID: 76228343129035720, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 76228343129035720, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 76228343129035720, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 76228343129035720, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 305766588218231669, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0413\u0430\u0431\u0440\u0438\u0435\u043B\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 305766588218231669, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0416\u043E\u043B\u043E\u043D\u0434\u0437"
+      objectReference: {fileID: 0}
+    - target: {fileID: 305766588218231669, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 305766588218231669, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 305766588218231669, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 305766588218231669, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 676940278557369521, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0418\u0432\u0430\u043D\u043A\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 676940278557369521, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041F\u043E\u043B\u0443\u0431\u0438\u043D\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 676940278557369521, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 676940278557369521, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 676940278557369521, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 676940278557369521, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
     - target: {fileID: 773502317198289068, guid: d094207f645ab5f41a5e4136ca1e30fa,
         type: 3}
       propertyPath: m_StaticEditorFlags
@@ -891,6 +1001,886 @@ PrefabInstance:
         type: 3}
       propertyPath: m_StaticEditorFlags
       value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 804230520505478415, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0418\u0437\u0430\u0431\u0435\u043B\u043B\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 804230520505478415, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0411\u0443\u0440\u0435\u043C\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 804230520505478415, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 804230520505478415, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 832896024608355910, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0413\u0430\u0431\u0440\u0438\u0435\u043B\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 832896024608355910, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0417\u0430\u0440\u0443\u0434\u0438\u043D\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 832896024608355910, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 832896024608355910, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 832896024608355910, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 832896024608355910, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 834627550153259129, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041B\u0443\u043A\u0430\u0448"
+      objectReference: {fileID: 0}
+    - target: {fileID: 834627550153259129, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0421\u043A\u0440\u0438\u043F\u0430\u043B\u044C\u043A\u043E"
+      objectReference: {fileID: 0}
+    - target: {fileID: 834627550153259129, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 834627550153259129, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 834627550153259129, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 834627550153259129, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 873974551707924846, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041A\u0430\u0437\u0438\u043C\u0438\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 873974551707924846, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041B\u0435\u0432\u0430\u043D\u0434\u043E\u0432\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 873974551707924846, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 873974551707924846, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 873974551707924846, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 873974551707924846, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 873974551707924846, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 873974551707924846, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1248221341182529993, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0442\u0435\u0443\u0448"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1248221341182529993, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0417\u0430\u043F\u0430\u0434\u043B\u043E\u0432\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1248221341182529993, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1248221341182529993, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1315981546236078762, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0442\u0438\u043B\u044C\u0434\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1315981546236078762, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0417\u0430\u0440\u0443\u0434\u0438\u043D\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1315981546236078762, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1315981546236078762, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1315981546236078762, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1348740054057677672, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0442\u0435\u0443\u0448"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1348740054057677672, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041C\u0438\u0446\u043A\u0435\u0432\u0438\u0447"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1348740054057677672, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1348740054057677672, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1348740054057677672, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1348740054057677672, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376935187059058920, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0442\u0438\u043B\u044C\u0434\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376935187059058920, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041F\u043E\u043B\u0443\u0431\u0438\u043D\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376935187059058920, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376935187059058920, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376935187059058920, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1376935187059058920, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1711453444445743373, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0418\u0437\u0430\u0431\u0435\u043B\u043B\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1711453444445743373, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0412\u043E\u0440\u043E\u0431\u0438\u043D\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1711453444445743373, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1711453444445743373, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1711453444445743373, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1711453444445743373, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1711453444445743373, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1713220923455810561, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0442\u0435\u0443\u0448"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1713220923455810561, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0421\u0435\u043F\u0430\u0440\u0435\u043D\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1713220923455810561, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1713220923455810561, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1713220923455810561, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1713220923455810561, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1713220923455810561, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1713220923455810561, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1782203294198651891, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0442\u0438\u043B\u044C\u0434\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1782203294198651891, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041F\u0438\u0447\u0445\u0430\u0434\u0437\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1782203294198651891, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1782203294198651891, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1804373839503947286, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0413\u0430\u0431\u0440\u0438\u0435\u043B\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1804373839503947286, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041B\u0430\u043D\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1804373839503947286, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1804373839503947286, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1804373839503947286, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1924680924150842433, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0440\u0438\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1924680924150842433, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041F\u0430\u043B\u044C\u0447\u0435\u0432\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2104286834109111370, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0413\u0440\u0438\u0433\u043E\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2104286834109111370, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0421\u0430\u0431\u043E\u043B\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2104286834109111370, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2104286834109111370, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2104286834109111370, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2104286834109111370, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2104286834109111370, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2222182658077893334, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0413\u0435\u0440\u0430\u043B\u044C\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2222182658077893334, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041C\u0438\u0446\u043A\u0435\u0432\u0438\u0447"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2222182658077893334, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2222182658077893334, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2222182658077893334, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2222182658077893334, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2260535591750181913, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041A\u0441\u0430\u0432\u044C\u0435\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2260535591750181913, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041F\u043E\u0440\u043E\u0445\u0435\u043D\u043A\u043E"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2260535591750181913, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2260535591750181913, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2260535591750181913, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2260535591750181913, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2504353127962277561, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0422\u0438\u043C\u043E\u043D"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2504353127962277561, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0413\u0440\u0438\u0444\u0438\u0447"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2504353127962277561, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2504353127962277561, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2504353127962277561, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2504353127962277561, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2540359470184398638, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041A\u0448\u0438\u0448\u0442\u043E\u0444"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2540359470184398638, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041F\u043E\u0440\u043E\u0445\u0435\u043D\u043A\u043E"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2540359470184398638, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2540359470184398638, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2540359470184398638, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2540359470184398638, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2540359470184398638, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2561124942394947947, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0415\u0432\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2561124942394947947, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041B\u0443\u0440\u044C\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2561124942394947947, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2561124942394947947, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2561124942394947947, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2561124942394947947, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2561124942394947947, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2565180236466251981, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0413\u0430\u0431\u0440\u0438\u0435\u043B\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2565180236466251981, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041F\u0430\u0440\u0430\u0448\u043A\u043E"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2565180236466251981, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2565180236466251981, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2565180236466251981, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2796232219826584184, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0415\u0432\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2796232219826584184, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0417\u0430\u043F\u0430\u0434\u043B\u043E\u0432\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2796232219826584184, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2796232219826584184, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2796232219826584184, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2796232219826584184, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926225626468410252, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0413\u0440\u0438\u0433\u043E\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926225626468410252, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041F\u0430\u043B\u044C\u0447\u0435\u0432\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926225626468410252, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926225626468410252, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926225626468410252, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2926225626468410252, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2960281811515231755, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0412\u0430\u0441\u0438\u043B\u0438\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2960281811515231755, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041A\u043E\u0440\u0441\u0430\u043A"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2960281811515231755, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2960281811515231755, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2960281811515231755, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 2960281811515231755, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3019874472918664393, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0440\u0442\u0438\u043D"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3019874472918664393, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0420\u0430\u0445\u0435\u043B\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3019874472918664393, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3019874472918664393, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3019874472918664393, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3019874472918664393, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3019874472918664393, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3127005125677373675, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0414\u0438\u0442\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3127005125677373675, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0411\u043E\u043C\u0436\u0435\u0443\u0441"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3127005125677373675, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3127005125677373675, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3127005125677373675, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181695864314135067, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0414\u0438\u0442\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181695864314135067, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0424\u0430\u0431\u0438\u0301\u043D"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181695864314135067, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181695864314135067, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3181695864314135067, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3186837938658734367, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0418\u0437\u0430\u0431\u0435\u043B\u043B\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3186837938658734367, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3186837938658734367, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3186837938658734367, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3224906957493146299, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0418\u0437\u0430\u0431\u0435\u043B\u043B\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3224906957493146299, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041A\u0430\u0444\u043A\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3224906957493146299, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3224906957493146299, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3224906957493146299, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295037333411948480, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0413\u0440\u0438\u0433\u043E\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295037333411948480, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0414\u043E\u0445\u0442\u0443\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295037333411948480, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295037333411948480, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295037333411948480, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3295037333411948480, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3449311015073202915, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0414\u0438\u0442\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3449311015073202915, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0420\u043E\u0444\u043B\u0435\u043D\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3449311015073202915, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3449311015073202915, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3449311015073202915, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3449311015073202915, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3634939867869037485, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0442\u0438\u043B\u044C\u0434\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3634939867869037485, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041E\u0436\u0435\u0448\u043A\u043E"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3634939867869037485, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3634939867869037485, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3634939867869037485, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
       objectReference: {fileID: 0}
     - target: {fileID: 3652059931274849923, guid: d094207f645ab5f41a5e4136ca1e30fa,
         type: 3}
@@ -947,10 +1937,2160 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3712724426574060359, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0440\u0438\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3712724426574060359, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0419\u043E\u0444\u0444\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3777797792970056694, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041B\u044E\u0441\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3777797792970056694, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0427\u0435\u0440\u043A\u0430\u0441\u0441"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3777797792970056694, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3777797792970056694, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3777797792970056694, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3779357501172090181, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0440\u0438\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3779357501172090181, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041A\u0440\u0430\u0432\u0447\u0438\u043A"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3779357501172090181, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3779357501172090181, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3779357501172090181, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3779357501172090181, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3779357501172090181, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3884070451381297708, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0440\u0438\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3884070451381297708, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041C\u0430\u0437\u0443\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3884070451381297708, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3909955526188076675, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0442\u0438\u043B\u044C\u0434\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3909955526188076675, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0413\u0435\u0441\u0441"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3909955526188076675, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3909955526188076675, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3909955526188076675, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3969530184965647295, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0413\u0435\u0440\u0430\u043B\u044C\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3969530184965647295, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0424\u0443\u0440\u043C\u0430\u043D"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3969530184965647295, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3969530184965647295, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3969530184965647295, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3969530184965647295, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 3969530184965647295, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4085942668812653493, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0413\u0440\u0438\u0433\u043E\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4085942668812653493, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0413\u0440\u044F\u0437\u043D\u0443\u0445"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4085942668812653493, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4085942668812653493, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4085942668812653493, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4085942668812653493, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4085942668812653493, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4085942668812653493, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4085942668812653493, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4301504758823428378, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u042F\u043D"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4301504758823428378, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041C\u0438\u043B\u043B\u0435\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4301504758823428378, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4301504758823428378, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4301504758823428378, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4301504758823428378, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4301504758823428378, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4412057936984209499, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0414\u0438\u0442\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4412057936984209499, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0413\u0435\u0441\u0441"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4412057936984209499, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4412057936984209499, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4412057936984209499, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4412057936984209499, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4412057936984209499, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4461059697069524279, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0421\u0438\u043C\u043E\u043D"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4461059697069524279, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0416\u043E\u043B\u043E\u043D\u0434\u0437"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4461059697069524279, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4461059697069524279, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4461059697069524279, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4461059697069524279, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4461059697069524279, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4461059697069524279, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4558739035669818656, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0423\u0437\u0443\u043C\u0430\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4558739035669818656, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4558739035669818656, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4558739035669818656, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4558739035669818656, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4762527582052648682, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0440\u0438\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4762527582052648682, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041F\u043E\u0440\u043E\u0445\u0435\u043D\u043A\u043E"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4762527582052648682, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4762527582052648682, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4762527582052648682, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4762527582052648682, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4772311685989332316, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0412\u0430\u0441\u0438\u043B\u0438\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4772311685989332316, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0413\u0440\u044F\u0437\u043D\u0443\u0445"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4772311685989332316, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4772311685989332316, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4772311685989332316, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4772311685989332316, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4819502947709236112, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041A\u0448\u0438\u0448\u0442\u043E\u0444"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4819502947709236112, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041F\u043E\u043B\u0443\u0431\u0438\u043D\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4819502947709236112, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4819502947709236112, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4819502947709236112, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4819502947709236112, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4819502947709236112, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4913874116975521685, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0421\u0435\u0431\u0430\u0441\u0442\u044C\u044F\u043D"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4913874116975521685, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0417\u0435\u043C\u0430\u043D\u0435\u043A"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4913874116975521685, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4913874116975521685, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4913874116975521685, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4913874116975521685, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4913874116975521685, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4913874116975521685, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4913874116975521685, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920204543266948603, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041B\u0438\u0434\u0438\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920204543266948603, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0420\u0430\u0445\u0435\u043B\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920204543266948603, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920204543266948603, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920204543266948603, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 4920204543266948603, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5178492403099598434, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041A\u0448\u0438\u0448\u0442\u043E\u0444"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5178492403099598434, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0412\u0438\u043D\u043D\u0438\u043A"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5178492403099598434, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5178492403099598434, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5178492403099598434, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5178492403099598434, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5178492403099598434, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5186972602411904615, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041A\u0441\u0430\u0432\u044C\u0435\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5186972602411904615, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041C\u0438\u0446\u043A\u0435\u0432\u0438\u0447"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5186972602411904615, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5186972602411904615, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5186972602411904615, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5186972602411904615, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5186972602411904615, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5362116032431000207, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5362116032431000207, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041A\u043E\u0440\u0441\u0430\u043A"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5362116032431000207, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5362116032431000207, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5362116032431000207, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5362116032431000207, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5362116032431000207, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5362116032431000207, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5486502664074651899, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041B\u044E\u0441\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5486502664074651899, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041B\u0443\u0440\u044C\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5486502664074651899, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5486502664074651899, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5486502664074651899, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5525901865333555166, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5525901865333555166, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0417\u0430\u043C\u043E\u0439\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5525901865333555166, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5525901865333555166, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5525901865333555166, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5525901865333555166, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5735033339965683131, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0442\u0438\u043B\u044C\u0434\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5735033339965683131, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041B\u0435\u0449\u0438\u043D\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5735033339965683131, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5735033339965683131, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5735033339965683131, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5735033339965683131, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5773749072433034434, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0421\u043E\u0444\u0438\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5773749072433034434, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0424\u0440\u0435\u0441\u043A\u043E"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5773749072433034434, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5773749072433034434, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 5773749072433034434, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162606153459847132, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0421\u0438\u043C\u043E\u043D"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162606153459847132, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0412\u043E\u0440\u043E\u0431\u0438\u043D\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162606153459847132, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162606153459847132, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162606153459847132, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162606153459847132, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6162606153459847132, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6199189656405338054, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0413\u0440\u0438\u0433\u043E\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6199189656405338054, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041D\u043E\u0432\u0438\u043A"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6199189656405338054, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6199189656405338054, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6199189656405338054, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6316037531821596079, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0421\u043E\u0444\u0438\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6316037531821596079, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0413\u0435\u0441\u0441"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6316037531821596079, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6316037531821596079, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6316037531821596079, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6316037531821596079, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6338153130838886216, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6338153130838886216, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041C\u044B\u0448\u043A\u043E\u0432\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6338153130838886216, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6338153130838886216, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6338153130838886216, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6338153130838886216, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6338153130838886216, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6497437737105287469, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6497437737105287469, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041C\u0438\u0446\u043A\u0435\u0432\u0438\u0447"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6497437737105287469, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6497437737105287469, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6497437737105287469, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6497437737105287469, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6497437737105287469, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6511840171378556291, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041B\u044E\u0441\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6511840171378556291, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041C\u0438\u043B\u043B\u0435\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6511840171378556291, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6511840171378556291, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6511840171378556291, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6511840171378556291, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6676086231816118991, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0442\u0438\u043B\u044C\u0434\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6676086231816118991, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0417\u0430\u043C\u043E\u0439\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6676086231816118991, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6676086231816118991, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6676086231816118991, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6676086231816118991, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6676086231816118991, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6728407795876489816, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u042F\u043D"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6728407795876489816, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041B\u0443\u0442\u0440\u0438\u043D"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6728407795876489816, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6728407795876489816, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6728407795876489816, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6728407795876489816, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6728407795876489816, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6728407795876489816, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6728407795876489816, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734451829730955093, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041A\u0441\u0430\u0432\u044C\u0435\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734451829730955093, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0421\u0435\u043F\u0430\u0440\u0435\u043D\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734451829730955093, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734451829730955093, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734451829730955093, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734451829730955093, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734451829730955093, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734451829730955093, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734451829730955093, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6812908141196351767, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0410\u043D\u043D\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6812908141196351767, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041A\u0430\u0444\u043A\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6812908141196351767, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6812908141196351767, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6843412873065675378, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0412\u0430\u0441\u0438\u043B\u0438\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6843412873065675378, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0411\u0430\u0431\u0438\u043A"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6843412873065675378, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6843412873065675378, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6916105985674189929, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041A\u0430\u0437\u0438\u043C\u0438\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6916105985674189929, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0414\u043E\u0445\u0442\u0443\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6916105985674189929, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6916105985674189929, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6916105985674189929, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 6916105985674189929, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7067495600763442386, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0413\u0440\u0438\u0433\u043E\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7067495600763442386, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0424\u0440\u0435\u0441\u043A\u043E"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7067495600763442386, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7067495600763442386, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7067495600763442386, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7067495600763442386, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7067495600763442386, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7067495600763442386, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7067495600763442386, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7074074317870761252, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041A\u0448\u0438\u0448\u0442\u043E\u0444"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7074074317870761252, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041F\u043E\u043B\u0443\u0431\u0438\u043D\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7074074317870761252, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7074074317870761252, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7074074317870761252, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7074074317870761252, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7074074317870761252, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134716512165593074, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0418\u0432\u0430\u043D\u043A\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134716512165593074, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041C\u0430\u0440\u0442\u044B\u0448\u043A\u043E"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134716512165593074, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134716512165593074, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134716512165593074, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134716512165593074, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134716512165593074, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7134716512165593074, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7142713561085136322, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0413\u0440\u0438\u0433\u043E\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7142713561085136322, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0411\u043E\u043C\u0436\u0435\u0443\u0441"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7142713561085136322, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7142713561085136322, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7142713561085136322, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7142713561085136322, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7142713561085136322, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7142713561085136322, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7178312368254017031, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0412\u0430\u043B\u0435\u0440\u0438\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7178312368254017031, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041E\u043B\u0435\u043B\u044C\u043A\u043E\u0432\u0438\u0447"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7178312368254017031, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7178312368254017031, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7178312368254017031, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7178312368254017031, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7219553733405384126, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0413\u0440\u0438\u0433\u043E\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7219553733405384126, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0410\u0443\u0442\u0438\u043D\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7219553733405384126, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7219553733405384126, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7219553733405384126, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7219553733405384126, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7345609036903971339, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0440\u0438\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7345609036903971339, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0423\u0437\u0443\u043C\u0430\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7345609036903971339, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7345609036903971339, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7345609036903971339, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7402915190063710096, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041C\u044B\u0448\u043A\u043E\u0432\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7402915190063710096, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7402915190063710096, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7402915190063710096, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7402915190063710096, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7402915190063710096, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7402915190063710096, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564980964802678035, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0442\u0438\u043B\u044C\u0434\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564980964802678035, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0421\u043E\u043F\u043B\u0435\u043D\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564980964802678035, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564980964802678035, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564980964802678035, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564980964802678035, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7564980964802678035, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628614509602622297, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0442\u0435\u0443\u0448"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628614509602622297, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041A\u0440\u0430\u0432\u0447\u0438\u043A"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628614509602622297, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7628614509602622297, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7645416873279704388, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0413\u0440\u0438\u0433\u043E\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7645416873279704388, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0421\u0430\u0431\u043E\u043B\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7645416873279704388, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7645416873279704388, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7645416873279704388, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7645416873279704388, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7645416873279704388, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7645416873279704388, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7836376583288578278, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7836376583288578278, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041C\u0438\u0446\u043A\u0435\u0432\u0438\u0447"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7836376583288578278, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7836376583288578278, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7836376583288578278, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7876236409413949022, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0413\u0430\u0431\u0440\u0438\u0435\u043B\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7876236409413949022, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0417\u0430\u043C\u043E\u0439\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7876236409413949022, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7876236409413949022, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7876236409413949022, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 7876236409413949022, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
     - target: {fileID: 7951855655856904567, guid: d094207f645ab5f41a5e4136ca1e30fa,
         type: 3}
       propertyPath: m_Name
       value: Map
+      objectReference: {fileID: 0}
+    - target: {fileID: 8000695826270784992, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041A\u0430\u0437\u0438\u043C\u0438\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8000695826270784992, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041C\u0435\u043C\u043D\u0438\u0447"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8000695826270784992, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8000695826270784992, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8000695826270784992, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8000695826270784992, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8000695826270784992, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8245659350851918629, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0418\u0432\u0430\u043D\u043A\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8245659350851918629, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0421\u043E\u043F\u043B\u0435\u043D\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8245659350851918629, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8245659350851918629, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8245659350851918629, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8245659350851918629, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8313579067077152915, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041A\u0448\u0438\u0448\u0442\u043E\u0444"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8313579067077152915, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041E\u043B\u0435\u043B\u044C\u043A\u043E\u0432\u0438\u0447"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8313579067077152915, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8313579067077152915, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8313579067077152915, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8313579067077152915, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8340588557424853039, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0413\u0435\u0440\u0430\u043B\u044C\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8340588557424853039, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0413\u0435\u0441\u0441"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8340588557424853039, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8340588557424853039, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8340588557424853039, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8340588557424853039, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8340588557424853039, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8353223524417754825, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041A\u0441\u0430\u0432\u044C\u0435\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8353223524417754825, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041C\u0438\u043B\u043B\u0435\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8353223524417754825, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8353223524417754825, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8353223524417754825, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8353223524417754825, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8389738268604424448, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041B\u0443\u043A\u0430\u0448"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8389738268604424448, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041F\u0443\u0437\u044B\u043D"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8389738268604424448, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8389738268604424448, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8389738268604424448, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8389738268604424448, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8453037015975467162, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0442\u0435\u0443\u0448"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8453037015975467162, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041B\u0430\u043D\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8453037015975467162, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8453037015975467162, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8453037015975467162, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8453037015975467162, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8453037015975467162, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8453037015975467162, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520601442150168345, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0440\u0438\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520601442150168345, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0418\u0441\u043B\u0430\u043C\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520601442150168345, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520601442150168345, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8520601442150168345, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8521638900313557104, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0415\u0432\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8521638900313557104, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0424\u0430\u0431\u0438\u0301\u043D"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8521638900313557104, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8521638900313557104, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8521638900313557104, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8678760788158620475, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0440\u0438\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8678760788158620475, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0416\u043E\u043B\u043E\u043D\u0434\u0437"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8678760788158620475, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8678760788158620475, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8678760788158620475, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8739498837891864740, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0421\u0435\u0431\u0430\u0441\u0442\u044C\u044F\u043D"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8739498837891864740, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0421\u0435\u043F\u0430\u0440\u0435\u043D\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8739498837891864740, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8739498837891864740, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8739498837891864740, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8739498837891864740, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8739498837891864740, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8744324448360400367, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0440\u0442\u0438\u043D"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8744324448360400367, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041F\u043E\u043B\u0443\u0431\u0438\u043D\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8744324448360400367, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8744324448360400367, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8744324448360400367, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8744324448360400367, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8744324448360400367, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8744324448360400367, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8762782196844524668, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041C\u0430\u0440\u0442\u0438\u043D"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8762782196844524668, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041B\u0435\u0449\u0438\u043D\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8762782196844524668, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8762782196844524668, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8762782196844524668, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0421\u0432\u0435\u0442\u043B\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8762782196844524668, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8762782196844524668, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8780528844614373570, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0413\u0440\u0438\u0433\u043E\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8780528844614373570, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0417\u0430\u043F\u0430\u0434\u043B\u043E\u0432\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8780528844614373570, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8780528844614373570, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8780528844614373570, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u041D\u0438\u0437\u043A\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8780528844614373570, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8780528844614373570, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8788442031802494108, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u041B\u0438\u0434\u0438\u044F"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8788442031802494108, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0424\u0440\u0435\u0441\u043A\u043E"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8788442031802494108, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8788442031802494108, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8788442031802494108, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8788442031802494108, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8847324574477747990, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0421\u0438\u043C\u043E\u043D"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8847324574477747990, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u041F\u0443\u0437\u044B\u043D"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8847324574477747990, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8847324574477747990, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8847324574477747990, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8847324574477747990, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8847324574477747990, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8847676336538444876, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0412\u0438\u043A\u0442\u043E\u0440"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8847676336538444876, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0410\u0443\u0442\u0438\u043D\u0441\u043A\u0438"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8847676336538444876, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8847676336538444876, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8847676336538444876, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8847676336538444876, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8847676336538444876, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8847676336538444876, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: car
+      value: "\u0415\u0441\u0442\u044C"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8847676336538444876, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: pat
+      value: "\u041D\u0435\u0442\u0443"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8847676336538444876, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8864767942546702385, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: characterName
+      value: "\u0413\u0435\u0440\u0430\u043B\u044C\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8864767942546702385, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0424\u0443\u0440\u043C\u0430\u043D"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8864767942546702385, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: sex
+      value: "\u041C\u0443\u0436\u0441\u043A\u043E\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8864767942546702385, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041F\u043E\u0436\u0438\u043B\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8864767942546702385, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8864767942546702385, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: body
+      value: "\u0411\u0435\u0437 \u043B\u0438\u0448\u043D\u0435\u0433\u043E \u0432\u0435\u0441\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8864767942546702385, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: married
+      value: "\u041D\u0435\u0442"
+      objectReference: {fileID: 0}
+    - target: {fileID: 9023754321515294769, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: surname
+      value: "\u0416\u0438\u0436\u043A\u0430"
+      objectReference: {fileID: 0}
+    - target: {fileID: 9023754321515294769, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: age
+      value: "\u041C\u043E\u043B\u043E\u0434\u043E\u0439(\u0430\u044F)"
+      objectReference: {fileID: 0}
+    - target: {fileID: 9023754321515294769, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: hair_color
+      value: "\u0422\u0435\u043C\u043D\u044B\u0435"
+      objectReference: {fileID: 0}
+    - target: {fileID: 9023754321515294769, guid: d094207f645ab5f41a5e4136ca1e30fa,
+        type: 3}
+      propertyPath: height
+      value: "\u0421\u0440\u0435\u0434\u043D\u0438\u0439"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d094207f645ab5f41a5e4136ca1e30fa, type: 3}
