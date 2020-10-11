@@ -29,6 +29,7 @@ Transform:
   m_LocalScale: {x: 0.65, y: 0.65, z: 0.65}
   m_Children:
   - {fileID: 635288604318370171}
+  - {fileID: 4944135753710987195}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -45,6 +46,74 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 20, y: 20, z: 15}
   m_Center: {x: 1, y: 0, z: -0.5}
+--- !u!1 &2069750478814146502
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4944135753710987195}
+  - component: {fileID: 897595598357118823}
+  - component: {fileID: 4935034878092320408}
+  m_Layer: 8
+  m_Name: HouseContactZone
+  m_TagString: House
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4944135753710987195
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2069750478814146502}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.5749998, y: -9.9, z: -11.8}
+  m_LocalScale: {x: 8, y: 8, z: 8}
+  m_Children: []
+  m_Father: {fileID: 45259936150403107}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &897595598357118823
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2069750478814146502}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &4935034878092320408
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2069750478814146502}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aad3907717d64fb98e338e18fc78ca5d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parametrVariantsSO: {fileID: 11400000, guid: 4974ece4e97adc144947dd7b3b47c5fb, type: 2}
+  characterName: "\u0414\u0430\u043D\u0430"
+  surname: "\u0414\u0440\u0443\u0446\u043A\u0438"
+  sex: "\u0416\u0435\u043D\u0441\u043A\u0438\u0439"
+  age: "\u0412\u0437\u0440\u043E\u0441\u043B\u044B\u0439(\u0430\u044F)"
+  hair_color: "\u0420\u044B\u0436\u0438\u0435"
+  height: "\u0412\u044B\u0441\u043E\u043A\u0438\u0439"
+  body: "\u0415\u0441\u0442\u044C \u043B\u0438\u0448\u043D\u0438\u0439 \u0432\u0435\u0441"
+  car: "\u041D\u0435\u0442\u0443"
+  pat: "\u0415\u0441\u0442\u044C"
+  married: "\u0414\u0430"
 --- !u!1 &8531736207873153600
 GameObject:
   m_ObjectHideFlags: 0
